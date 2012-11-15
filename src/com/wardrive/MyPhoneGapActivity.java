@@ -1,8 +1,7 @@
 package com.wardrive;
 
-import org.apache.cordova.DroidGap; 
+import org.apache.cordova.DroidGap;
 import android.os.Bundle;
-
 
 public class MyPhoneGapActivity extends DroidGap {
 	@Override
